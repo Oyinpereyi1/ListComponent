@@ -1,0 +1,21 @@
+{
+    "students": [
+        {   
+            "name": "Pereyi", 
+            "department": "Mathematics", 
+            "age": 24, 
+            "id": 1
+        },
+        { 
+            "name": "Gift", 
+            "department": "Computer Science", 
+            "age": 22, "id": 2 
+        },
+        { 
+            "name": "Success", 
+            "department": "Geology", 
+            "age": 20, 
+            "id": 3 
+        }
+    ]
+}
